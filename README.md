@@ -1,4 +1,4 @@
-<p align = "center"> 
+<p> 
   <h3 align = "center"> 👋 Hi, I’m Leon. </h3>
 </p>
 <p align = "center"> 
