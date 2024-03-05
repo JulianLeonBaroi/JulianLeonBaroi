@@ -1,3 +1,6 @@
+<p>
+  <h2> About </h2>
+</p>
 <p> 
   <h3 align = "center"> 👋 Hi, I’m Leon. </h3>
 </p>
