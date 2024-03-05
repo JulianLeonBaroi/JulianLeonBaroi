@@ -1,6 +1,4 @@
-<p>
-  <h2> About </h2>
-</p>
+# About
 <p> 
   <h3 align = "center"> 👋 Hi, I’m Leon. </h3>
 </p>
