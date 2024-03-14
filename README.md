@@ -7,5 +7,5 @@
  channel called freeCodeCamp.org. It is a good channel for beginners.
 </p>
 <p align = "center">
-  My Favorite Languages: <b> C, HTML, Java, Python, Pascal </b> etc.
+   <b> My Favorite Languages: C, HTML, Java, Python, Pascal etc. </b>
 </p>
